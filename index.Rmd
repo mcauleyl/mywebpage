@@ -1,6 +1,6 @@
 
 ---
-title: "My Website Name"
+title: "Laura McAuley's Academic Website"
 ---
 
 # About me:
